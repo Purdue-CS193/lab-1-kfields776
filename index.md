@@ -35,3 +35,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Kyle Fields's Favorite Things About Purdue CS193
+
+- Lab is every two weeks
+- Lecture is every two weeks
+- Lecture uses iClicker
+- I know people both in my lecture and in my lab
+- The lab is in the Computer Science Building
